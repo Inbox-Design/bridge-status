@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/api-191.bridge.school.nz",
     "slug": "api-1",
     "status": "up",
-    "uptime": "1.44%",
-    "uptimeDay": "1.44%",
-    "uptimeWeek": "1.44%",
-    "uptimeMonth": "1.44%",
-    "uptimeYear": "1.44%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 835,
     "timeDay": 835,
     "timeWeek": 835,
     "timeMonth": 835,
     "timeYear": 835,
-    "dailyMinutesDown": {
-      "2022-08-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API 2",
@@ -43,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/api-193.bridge.school.nz",
     "slug": "api-2",
     "status": "up",
-    "uptime": "1.05%",
-    "uptimeDay": "1.05%",
-    "uptimeWeek": "1.05%",
-    "uptimeMonth": "1.05%",
-    "uptimeYear": "1.05%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 840,
     "timeDay": 840,
     "timeWeek": 840,
     "timeMonth": 840,
     "timeYear": 840,
-    "dailyMinutesDown": {
-      "2022-08-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Login",
@@ -63,11 +59,11 @@
     "icon": "https://favicons.githubusercontent.com/login.bridge.school.nz",
     "slug": "login",
     "status": "down",
-    "uptime": "0.19%",
-    "uptimeDay": "0.19%",
-    "uptimeWeek": "0.19%",
-    "uptimeMonth": "0.19%",
-    "uptimeYear": "0.19%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 162,
     "timeDay": 162,
     "timeWeek": 162,
