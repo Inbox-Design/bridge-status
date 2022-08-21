@@ -17,7 +17,7 @@ sites:
       - 200
       - 201
       - 404
-  - name: Login
+  - name: SchooBridge Login
     url: https://login.bridge.school.nz
 
 status-website:
