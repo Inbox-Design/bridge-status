@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 791,
-    "timeWeek": 791,
-    "timeMonth": 791,
-    "timeYear": 791,
+    "time": 818,
+    "timeDay": 818,
+    "timeWeek": 818,
+    "timeMonth": 818,
+    "timeYear": 818,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://api-191.bridge.school.nz",
     "icon": "https://favicons.githubusercontent.com/api-191.bridge.school.nz",
     "slug": "api-1",
-    "status": "down",
-    "uptime": "0.91%",
-    "uptimeDay": "0.91%",
-    "uptimeWeek": "0.91%",
-    "uptimeMonth": "0.91%",
-    "uptimeYear": "0.91%",
-    "time": 759,
-    "timeDay": 759,
-    "timeWeek": 759,
-    "timeMonth": 759,
-    "timeYear": 759,
+    "status": "up",
+    "uptime": "1.44%",
+    "uptimeDay": "1.44%",
+    "uptimeWeek": "1.44%",
+    "uptimeMonth": "1.44%",
+    "uptimeYear": "1.44%",
+    "time": 835,
+    "timeDay": 835,
+    "timeWeek": 835,
+    "timeMonth": 835,
+    "timeYear": 835,
     "dailyMinutesDown": {
-      "2022-08-21": 4
+      "2022-08-21": 7
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://api-193.bridge.school.nz",
     "icon": "https://favicons.githubusercontent.com/api-193.bridge.school.nz",
     "slug": "api-2",
-    "status": "down",
-    "uptime": "0.68%",
-    "uptimeDay": "0.68%",
-    "uptimeWeek": "0.68%",
-    "uptimeMonth": "0.68%",
-    "uptimeYear": "0.68%",
-    "time": 779,
-    "timeDay": 779,
-    "timeWeek": 779,
-    "timeMonth": 779,
-    "timeYear": 779,
+    "status": "up",
+    "uptime": "1.05%",
+    "uptimeDay": "1.05%",
+    "uptimeWeek": "1.05%",
+    "uptimeMonth": "1.05%",
+    "uptimeYear": "1.05%",
+    "time": 840,
+    "timeDay": 840,
+    "timeWeek": 840,
+    "timeMonth": 840,
+    "timeYear": 840,
     "dailyMinutesDown": {
-      "2022-08-21": 4
+      "2022-08-21": 7
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/login.bridge.school.nz",
     "slug": "login",
     "status": "down",
-    "uptime": "0.45%",
-    "uptimeDay": "0.45%",
-    "uptimeWeek": "0.45%",
-    "uptimeMonth": "0.45%",
-    "uptimeYear": "0.45%",
-    "time": 101,
-    "timeDay": 101,
-    "timeWeek": 101,
-    "timeMonth": 101,
-    "timeYear": 101,
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
+    "time": 162,
+    "timeDay": 162,
+    "timeWeek": 162,
+    "timeMonth": 162,
+    "timeYear": 162,
     "dailyMinutesDown": {
-      "2022-08-21": 4
+      "2022-08-21": 7
     }
   }
 ]
